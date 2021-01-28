@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Channel6Game</string>
+    <string name="gameinfo">Welcome too channel 6 SMS game</string>
+    <string name="promt">Please enter your response below</string>
+    <string name="btn">Send message</string>
+</resources>
